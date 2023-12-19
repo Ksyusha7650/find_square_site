@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Найди площадь</string>
+    <string name="light_url">https://worldlab.technolog.edu.ru/stud/group3/index.html</string>
+    <string name="dark_url">https://worldlab.technolog.edu.ru/stud/group3/index_night.html</string>
+</resources>
